@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TWP Shortcodes\n"
+"POT-Creation-Date: 2016-02-08 11:45+0100\n"
+"PO-Revision-Date: 2015-12-14 19:00+0100\n"
+"Last-Translator: Themes4WP <info@themes4wp.com>\n"
+"Language-Team: Themes4WP <info@themes4wp.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: twp-social-counter-widget.php:22
+msgid ""
+" Add Twitter, Facebook, G+ and Feeds in Sidebar Widget By themes4wp.com"
+msgstr ""
+
+#: twp-social-counter-widget.php:23
+msgid "Themes4WP social counter widget"
+msgstr ""
+
+#: twp-social-counter-widget.php:73
+msgid "Subscribe"
+msgstr ""
+
+#: twp-social-counter-widget.php:73
+msgid "Subscribers"
+msgstr ""
+
+#: twp-social-counter-widget.php:74
+msgid "To RSS Feed"
+msgstr ""
+
+#: twp-social-counter-widget.php:82 twp-social-counter-widget.php:98
+msgid "Followers"
+msgstr ""
+
+#: twp-social-counter-widget.php:90
+msgid "Fans"
+msgstr ""
+
+#: twp-social-counter-widget.php:117
+msgid "Posts"
+msgstr ""
+
+#: twp-social-counter-widget.php:125
+msgid "Comments"
+msgstr ""
+
+#: twp-social-counter-widget.php:133
+#, php-format
+msgid "Plugin by %1$s"
+msgstr ""
+
+#: twp-social-counter-widget.php:205
+msgid "Title"
+msgstr ""
+
+#: twp-social-counter-widget.php:208
+msgid "RSS"
+msgstr ""
+
+#: twp-social-counter-widget.php:210
+msgid "RSS Feed URL"
+msgstr ""
+
+#: twp-social-counter-widget.php:213
+msgid "Facebook"
+msgstr ""
+
+#: twp-social-counter-widget.php:215
+msgid "Facebook Page URL"
+msgstr ""
+
+#: twp-social-counter-widget.php:217
+msgid ""
+"Link must be like https://www.facebook.com/username/ or https://www."
+"facebook.com/PageID/"
+msgstr ""
+
+#: twp-social-counter-widget.php:220
+msgid "Facebook App ID"
+msgstr ""
+
+#: twp-social-counter-widget.php:222 twp-social-counter-widget.php:227
+#, php-format
+msgid "Create an app on Facebook through this link %1$s."
+msgstr ""
+
+#: twp-social-counter-widget.php:225
+msgid "Facebook App Secret"
+msgstr ""
+
+#: twp-social-counter-widget.php:229
+msgid "Twitter"
+msgstr ""
+
+#: twp-social-counter-widget.php:231
+msgid "Twitter Username"
+msgstr ""
+
+#: twp-social-counter-widget.php:233
+msgid "Please enter the Twitter username. For example: themes4_wp"
+msgstr ""
+
+#: twp-social-counter-widget.php:236
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: twp-social-counter-widget.php:238 twp-social-counter-widget.php:243
+#: twp-social-counter-widget.php:248 twp-social-counter-widget.php:253
+#, php-format
+msgid "Create an app on Twitter through this link %1$s."
+msgstr ""
+
+#: twp-social-counter-widget.php:241
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: twp-social-counter-widget.php:246
+msgid "Twitter Access Token"
+msgstr ""
+
+#: twp-social-counter-widget.php:251
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: twp-social-counter-widget.php:255
+#, fuzzy
+msgid "Google"
+msgstr "The subsets used from Google's API."
+
+#: twp-social-counter-widget.php:257
+msgid "Google Plus Page ID"
+msgstr ""
+
+#: twp-social-counter-widget.php:259
+msgid "Please enter the Google page name. For example: +Themes4WP"
+msgstr ""
+
+#: twp-social-counter-widget.php:262
+msgid "Google Plus API Key"
+msgstr ""
+
+#: twp-social-counter-widget.php:264
+#, php-format
+msgid "Create a project on Google through this link %1$s."
+msgstr ""
+
+#: twp-social-counter-widget.php:266
+msgid "Others"
+msgstr ""
+
+#: twp-social-counter-widget.php:268
+msgid "G+ Like Button"
+msgstr ""
+
+#: twp-social-counter-widget.php:272
+msgid "Facebook Like Button"
+msgstr ""
+
+#: twp-social-counter-widget.php:276
+msgid "Posts Count"
+msgstr ""
+
+#: twp-social-counter-widget.php:280
+msgid "Comments Count"
+msgstr ""
+
+#: twp-social-counter-widget.php:285
+msgid "Give credit to the plugin author?"
+msgstr ""
+
+#: twp-social-counter-widget.php:289
+msgid "Layout"
+msgstr ""
+
+#: twp-social-counter-widget.php:291
+msgid "Clear"
+msgstr ""
+
+#: twp-social-counter-widget.php:292
+msgid "Bordered"
+msgstr ""
+
+#: twp-social-counter-widget.php:293
+msgid "Bordered with shadow"
+msgstr ""
+
+#: twp-social-counter-widget.php:294
+msgid "Rounded (bordered)"
+msgstr ""
+
+#: twp-social-counter-widget.php:295
+msgid "Rounded (bordered) with shadow"
+msgstr ""
